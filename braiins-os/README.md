@@ -1,4 +1,4 @@
-# Braiins OS Developer Guide
+# BIC OS Developer Guide
 
 This project is built around a small tool (braiins build system - bb.py) that extends the OpenWrt build system with the following features:
 
